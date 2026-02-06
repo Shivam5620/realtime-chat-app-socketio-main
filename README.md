@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🚀 Realtime Chat App — MERN + Socket.IO
 
 A full-stack real-time chat application built using the MERN stack with Socket.IO for instant messaging — no page refresh, true live updates.
@@ -116,3 +117,6 @@ Architecture
 Real-time handling
 
 State management choices
+=======
+# realtime-chat-app-socketio-main
+>>>>>>> c0ec2ed984647e203551b5cab25551cc6daa2fe3
