@@ -83,7 +83,7 @@ JWT_SECRET=your_secret_key
 
 🚀 How to Run Locally
 Clone the repo
-git clone https://github.com/vips725/realtime-chat-app-socketio.git
+git clone git@github.com:Shivam5620/realtime-chat-app-socketio-main.git
 cd realtime-chat-app-socketio
 
 Backend
